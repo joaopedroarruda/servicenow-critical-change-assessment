@@ -20,6 +20,15 @@ Na gestão de TI corporativa, mudanças críticas exigem validação rigorosa de
 
 ---
 
+## 📷 Demonstração Visual
+
+### Estrutura Lógica do Fluxo (Workflow Studio)
+![Estrutura do Fluxo](fluxo-total.png)
+
+### Execução do Teste no ServiceNow
+![Resultado do Teste 1](teste.1.png)
+![Resultado do Teste 2](teste.2.png)
+
 ## 🛠️ Arquitetura e Componentes
 
 - **Plataforma:** ServiceNow (Workflow Studio / Flow Designer)
